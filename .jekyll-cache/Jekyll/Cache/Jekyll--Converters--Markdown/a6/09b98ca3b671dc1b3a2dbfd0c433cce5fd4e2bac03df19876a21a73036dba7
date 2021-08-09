@@ -1,0 +1,5 @@
+I"9<p><strong>Minimal-Uni</strong> is the base class website structure for my current university courses. The course repo can be found and downloaded or forked from <a href="https://github.com/lee2sman/minimal-uni">here</a>. This theme can also be used to create a blog, personal website or a wiki. It is built on <a href="https://jekyllrb.com/">Jekyll</a> static site builder, hosted on GitHub pages. The theme is meant to be modified. At the very least, change the title, text, and modify the border color of the frame around the page by modifying the $border-color inside <code class="language-plaintext highlighter-rouge">assets/css/all.sass</code>.</p>
+
+<p>Created by <a href="http://leetusman.com">Lee Tusman</a> and licensed under <a href="https://anticapitalist.software/">The Anti-Capitalist Software License</a>.</p>
+
+:ET

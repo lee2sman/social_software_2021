@@ -3,16 +3,11 @@ layout: page
 title: Home
 ---
 
-Minimal Uni is a base structure that can be used to create a website for a college class, or a personal blog, wiki or other website.
+# Social Software
 
- The repo can be found and downloaded or forked from [here](https://github.com/lee2sman/minimal-uni).
+Social software is explored both from technical and critical perspectives. Hands-on work in conceptualizing, designing, and developing social software projects is informed by examining the evolution of social software and its impact on society. Includes modules on version control, collaborative open source software projects and application programming interfaces. Projects may range in complexity from simple websites to data-driven web applications to real-time applications.
 
-It is built on [Jekyll](https://jekyllrb.com/) static site builder, hosted on GitHub pages. The theme is meant to be modified. At the very least, change the title and the text on index.md and pages/about.md. Modify the border color of the frame around the page and text and accent colors inside ```_data/layout.yml```.
 
-Created by [Lee Tusman](http://leetusman.com).
-
-This theme is licensed under [The Anti-Capitalist Software License](https://anticapitalist.software/).
-
-The text on this page is served from ```index.md```
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RnhnRHc7yYY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include footer.html %}
