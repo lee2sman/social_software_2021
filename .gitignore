@@ -30,3 +30,6 @@ _site/
 Gemfile.lock
 
 .jekyll-cache/*
+
+# special for class
+working/
